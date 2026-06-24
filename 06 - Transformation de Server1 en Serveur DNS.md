@@ -138,7 +138,7 @@ $TTL    604800
 ;
 @       IN      NS      server1.learn-it.local.
 254     IN      PTR     server1.learn-it.local.
-2       IN      PTR     server2.learn-it.local.
+200     IN      PTR     server2.learn-it.local.
 1       IN      PTR     client.learn-it.local.
 ```
 
